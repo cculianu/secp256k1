@@ -1,6 +1,6 @@
 ## Note this is taken from Bitcoin-ABC 
 
-[Bitcoin-ABC commit 92628d135f51a0a520f8fc57ad7ab639d8b362f2](https://github.com/Bitcoin-ABC/bitcoin-abc)
+[Bitcoin-ABC commit 57334abef9fb6564b21a00be60cf844e81018f7c](https://github.com/Bitcoin-ABC/bitcoin-abc)
 
 It is recommended you go there for issues/PRs/feedback, etc.
 
