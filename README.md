@@ -1,4 +1,4 @@
-## Note this is taken from BitcoinABC 
+## Note this is taken from Bitcoin-ABC 
 
 [Bitcoin-ABC commit 92628d135f51a0a520f8fc57ad7ab639d8b362f2](https://github.com/Bitcoin-ABC/bitcoin-abc)
 
