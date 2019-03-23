@@ -1,3 +1,13 @@
+## Note this is taken from BitcoinABC 
+
+[Bitcoin-ABC commit 92628d135f51a0a520f8fc57ad7ab639d8b362f2](https://github.com/Bitcoin-ABC/bitcoin-abc)
+
+It is recommended you go there for issues/PRs/feedback, etc.
+
+The purpose of this fork is to provide a stand-alone repository of just libsecp256k1 for Electron Cash to pull in and build from.
+
+---
+
 libsecp256k1
 ============
 
