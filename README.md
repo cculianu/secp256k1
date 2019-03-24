@@ -2,9 +2,14 @@
 
 [Bitcoin-ABC commit 57334abef9fb6564b21a00be60cf844e81018f7c](https://github.com/Bitcoin-ABC/bitcoin-abc)
 
-It is recommended you go there for issues/PRs/feedback, etc.
+It is recommended you go to the above link for specific issues/PRs/feedback, related
+to libsecp256k1.
 
-The purpose of this fork is to provide a stand-alone repository of just libsecp256k1 for Electron Cash to pull in and build from.
+The purpose of this fork is to provide a stand-alone repository of just libsecp256k1
+(based off the Bitcoin ABC "Schnorr module enabled" fork of the secp256k1 codebase)
+for Electron Cash to pull in and build from. As such, this repository mostly lives as
+a submodule of the [Electron Cash sources](https://github.com/Electron-Cash/Electron-Cash),
+and is accessed using Electron Cash's ``contrib/make_secp`` script.
 
 ---
 
