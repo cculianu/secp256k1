@@ -1,6 +1,6 @@
 ## Note this is taken from Bitcoin-ABC 
 
-[Bitcoin-ABC commit 57334abef9fb6564b21a00be60cf844e81018f7c](https://github.com/Bitcoin-ABC/bitcoin-abc)
+[Bitcoin-ABC commit dc0adb7b18f854a6b076824e4edb8b02ce62e5bd](https://github.com/Bitcoin-ABC/bitcoin-abc/commits/dc0adb7b18f854a6b076824e4edb8b02ce62e5bd)
 
 It is recommended you go to the above link for specific issues/PRs/feedback, related
 to libsecp256k1.
